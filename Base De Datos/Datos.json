@@ -1,0 +1,412 @@
+director:
+
+{
+  "nombre": "Carlos",
+  "apellidoPaterno": "Hernández",
+  "apellidoMaterno": "López",
+  "email": "carlos.hernandez@primariaelrosal.edu.mx",
+  "password": "Director2025!",
+  "fechaNacimiento": "1980-05-14",
+  "sexo": "MASCULINO",
+  "estatus": "ACTIVO",
+  "departamento": "Dirección Escolar",
+  "telefono": "5551234567"
+}
+
+
+profesores
+
+{
+    "id": "9bc249f6-e6d3-4d58-9739-d2f888777c3d",
+    "nombre": "María",
+    "apellidoPaterno": "Gómez",
+    "apellidoMaterno": "Santos",
+    "email": "maria.gomez@primariaelrosal.edu.mx",
+    "password": "Maestra2025!",
+    "fechaNacimiento": "1985-03-12",
+    "sexo": "FEMENINO",
+    "estatus": "ACTIVO",
+    "especialidad": "Matemáticas",
+    "telefono": "5551112233",
+    "rfc": "GOSM850312HT6",
+    "clavePresupuestal": "DOC001"
+  }
+
+
+  {
+    "id": "fd9893ed-6fb6-4b17-a94b-7f3568c0c85d",
+    "nombre": "Juan",
+    "apellidoPaterno": "Pérez",
+    "apellidoMaterno": "Ramírez",
+    "email": "juan.perez@primariaelrosal.edu.mx",
+    "password": "Maestro2025!",
+    "fechaNacimiento": "1982-06-05",
+    "sexo": "MASCULINO",
+    "estatus": "ACTIVO",
+    "especialidad": "Español",
+    "telefono": "5552223344",
+    "rfc": "PERJ820605KT1",
+    "clavePresupuestal": "DOC002"
+  }
+
+  {
+    "id": "7c58be11-cc9a-44e0-993d-df1f6171f521",
+    "nombre": "Laura",
+    "apellidoPaterno": "Hernández",
+    "apellidoMaterno": "Vega",
+    "email": "laura.hernandez@primariaelrosal.edu.mx",
+    "password": "LauraHV2025!",
+    "fechaNacimiento": "1990-09-10",
+    "sexo": "FEMENINO",
+    "estatus": "ACTIVO",
+    "especialidad": "Ciencias Naturales",
+    "telefono": "5553334455",
+    "rfc": "HEVL900910MN3",
+    "clavePresupuestal": "DOC003"
+  }
+
+  {
+    "id": "032eb6c2-2dc6-4d67-94bd-3ef886bd6b6c",
+    "nombre": "Carlos",
+    "apellidoPaterno": "Morales",
+    "apellidoMaterno": "Jiménez",
+    "email": "carlos.morales@primariaelrosal.edu.mx",
+    "password": "CMorales2025!",
+    "fechaNacimiento": "1984-01-25",
+    "sexo": "MASCULINO",
+    "estatus": "ACTIVO",
+    "especialidad": "Educación Física",
+    "telefono": "5554445566",
+    "rfc": "MOJC840125KS7",
+    "clavePresupuestal": "DOC004"
+  }
+
+
+  {
+    "id": "be635661-7752-4393-893b-8714daf6dce6",
+    "nombre": "Ana",
+    "apellidoPaterno": "Castro",
+    "apellidoMaterno": "Núñez",
+    "email": "ana.castro@primariaelrosal.edu.mx",
+    "password": "ACastro2025!",
+    "fechaNacimiento": "1988-12-19",
+    "sexo": "FEMENINO",
+    "estatus": "ACTIVO",
+    "especialidad": "Historia",
+    "telefono": "5555556677",
+    "rfc": "CANA881219MM2",
+    "clavePresupuestal": "DOC005"
+  }
+
+   {
+     "id": "b1350a12-f3f3-4b5c-a4f0-869ac1d34ef4",
+    "nombre": "Miguel",
+    "apellidoPaterno": "Rojas",
+    "apellidoMaterno": "García",
+    "email": "miguel.rojas@primariaelrosal.edu.mx",
+    "password": "MiguelRG2025!",
+    "fechaNacimiento": "1981-04-30",
+    "sexo": "MASCULINO",
+    "estatus": "ACTIVO",
+    "especialidad": "Geografía",
+    "telefono": "5556667788",
+    "rfc": "ROGM810430TG3",
+    "clavePresupuestal": "DOC006"
+  }
+
+
+
+  alumnos
+
+  {
+     "id": "c928eb57-8763-44a0-b8db-947456f039db",
+  "nombre": "Diego",
+  "apellidoPaterno": "Ramírez",
+  "apellidoMaterno": "Gómez",
+  "email": "diego.ramirez@primariaelrosal.edu.mx",
+  "password": "Diego2025!",
+  "fechaNacimiento": "2013-04-18",
+  "sexo": "MASCULINO",
+  "estatus": "ACTIVO",
+  "matricula": "A001",
+  "curp": "RAGD130418HMCMZG09"
+}
+
+{
+    "id": "6fcc20d8-e038-45d7-a2d4-56cdc254e09d",
+  "nombre": "Valeria",
+  "apellidoPaterno": "Santos",
+  "apellidoMaterno": "López",
+  "email": "valeria.santos@primariaelrosal.edu.mx",
+  "password": "Valeria2025!",
+  "fechaNacimiento": "2012-09-03",
+  "sexo": "FEMENINO",
+  "estatus": "ACTIVO",
+  "matricula": "A002",
+  "curp": "SALV120903MMCNPL05"
+}
+
+
+{
+     "id": "587b328f-1a7e-4bae-9851-c661aa26edb7",
+  "nombre": "Emiliano",
+  "apellidoPaterno": "Torres",
+  "apellidoMaterno": "Núñez",
+  "email": "emiliano.torres@primariaelrosal.edu.mx",
+  "password": "Emiliano2025!",
+  "fechaNacimiento": "2014-06-25",
+  "sexo": "MASCULINO",
+  "estatus": "ACTIVO",
+  "matricula": "A003",
+  "curp": "TONE140625HDFRRN08"
+}
+
+
+{
+    "id": "66eee352-4cb3-4eba-9656-9a17d8178abd",
+  "nombre": "Camila",
+  "apellidoPaterno": "Flores",
+  "apellidoMaterno": "Martínez",
+  "email": "camila.flores@primariaelrosal.edu.mx",
+  "password": "Camila2025!",
+  "fechaNacimiento": "2013-11-15",
+  "sexo": "FEMENINO",
+  "estatus": "ACTIVO",
+  "matricula": "A004",
+  "curp": "FOMC131115MMCLRM03"
+}
+
+{
+      "id": "3b9437fa-ba63-49b1-a270-79d185bc5f98",
+  "nombre": "Santiago",
+  "apellidoPaterno": "López",
+  "apellidoMaterno": "Rivas",
+  "email": "santiago.lopez@primariaelrosal.edu.mx",
+  "password": "Santiago2025!",
+  "fechaNacimiento": "2012-02-09",
+  "sexo": "MASCULINO",
+  "estatus": "ACTIVO",
+  "matricula": "A005",
+  "curp": "LORS120209HDFPVS07"
+}
+
+
+{
+    "id": "ec51a00d-29be-4a6e-92a9-1ced4e201152",
+  "nombre": "Renata",
+  "apellidoPaterno": "García",
+  "apellidoMaterno": "Ortiz",
+  "email": "renata.garcia@primariaelrosal.edu.mx",
+  "password": "Renata2025!",
+  "fechaNacimiento": "2013-01-29",
+  "sexo": "FEMENINO",
+  "estatus": "ACTIVO",
+  "matricula": "A006",
+  "curp": "GAOR130129MMCRTN06"
+}
+
+{
+     "id": "ae851148-d13f-491f-9035-dd4ce44aad42",
+  "nombre": "Mateo",
+  "apellidoPaterno": "Hernández",
+  "apellidoMaterno": "Castro",
+  "email": "mateo.hernandez@primariaelrosal.edu.mx",
+  "password": "Mateo2025!",
+  "fechaNacimiento": "2014-07-02",
+  "sexo": "MASCULINO",
+  "estatus": "ACTIVO",
+  "matricula": "A007",
+  "curp": "HECM140702HDFNST04"
+}
+
+{
+     "id": "84a96ba6-2404-4407-9ec7-18c75398bd01",
+  "nombre": "Sofía",
+  "apellidoPaterno": "Mendoza",
+  "apellidoMaterno": "Jiménez",
+  "email": "sofia.mendoza@primariaelrosal.edu.mx",
+  "password": "Sofia2025!",
+  "fechaNacimiento": "2011-12-22",
+  "sexo": "FEMENINO",
+  "estatus": "ACTIVO",
+  "matricula": "A008",
+  "curp": "MEJS111222MMCDNF05"
+}
+
+
+{
+     "id": "0340075e-b37b-418b-beb0-eb3f13666793",
+  "nombre": "Leonardo",
+  "apellidoPaterno": "Vega",
+  "apellidoMaterno": "Moreno",
+  "email": "leonardo.vega@primariaelrosal.edu.mx",
+  "password": "Leonardo2025!",
+  "fechaNacimiento": "2012-05-11",
+  "sexo": "MASCULINO",
+  "estatus": "ACTIVO",
+  "matricula": "A009",
+  "curp": "VEML120511HDFGRN08"
+}
+
+{
+     "id": "70080df8-42a8-484e-9504-3006f1bcc297",
+  "nombre": "Isabella",
+  "apellidoPaterno": "Navarro",
+  "apellidoMaterno": "Pérez",
+  "email": "isabella.navarro@primariaelrosal.edu.mx",
+  "password": "Isabella2025!",
+  "fechaNacimiento": "2013-10-07",
+  "sexo": "FEMENINO",
+  "estatus": "ACTIVO",
+  "matricula": "A010",
+  "curp": "NAPI131007MMCRZS09"
+}
+
+campos formativos
+
+[
+  {
+    "id": "1056082d-e25a-44e8-9334-d137563e6527",
+    "nombre": "Saberes y Pensamiento Científico",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "7240a1d4-a806-42d8-9ac3-26d0a73985f7",
+    "nombre": "Educación Socioemocional",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "802ac18d-124a-4e6d-92ce-a7efdc907a7b",
+    "nombre": "Tecnología y Creatividad",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "9e3d29af-384b-48d5-98de-de4a3b818de2",
+    "nombre": "Lenguajes",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "ad592fef-6e46-4451-bbc0-d0021eeff5b2",
+    "nombre": "Ética, Naturaleza y Sociedad",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "c87b6b30-13d5-412d-92dd-2bb69da54348",
+    "nombre": "De lo Humano y lo Comunitario",
+    "estatus": "ACTIVO"
+  }
+]
+
+
+materia
+
+[
+  {
+    "id": "425119e4-822b-4eac-9868-4ff56866b4df",
+    "nombre": "Vida Saludable",
+    "campoFormativoId": "c87b6b30-13d5-412d-92dd-2bb69da54348",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "42d55686-c48c-4b6e-8eee-90def7eaf760",
+    "nombre": "Lengua Indígena",
+    "campoFormativoId": "9e3d29af-384b-48d5-98de-de4a3b818de2",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "46437536-4d07-4009-8585-20b31604578c",
+    "nombre": "Pensamiento Lógico y Programación",
+    "campoFormativoId": "802ac18d-124a-4e6d-92ce-a7efdc907a7b",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "4d3df2f8-42df-4d3a-8bbc-55c805e40592",
+    "nombre": "Educación Ambiental",
+    "campoFormativoId": "1056082d-e25a-44e8-9334-d137563e6527",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "532a10a7-34f8-4159-9c2f-76247f3355c0",
+    "nombre": "Geografía",
+    "campoFormativoId": "ad592fef-6e46-4451-bbc0-d0021eeff5b2",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "6241f44a-465f-44a0-9203-31dc82dd99a0",
+    "nombre": "Computación",
+    "campoFormativoId": "802ac18d-124a-4e6d-92ce-a7efdc907a7b",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "657a4bc8-3e3c-464f-bd91-65d88f12c722",
+    "nombre": "Habilidades Socioemocionales",
+    "campoFormativoId": "7240a1d4-a806-42d8-9ac3-26d0a73985f7",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "6b984fdb-8de6-432e-a715-5f29de2b705a",
+    "nombre": "Autoconocimiento y Empatía",
+    "campoFormativoId": "7240a1d4-a806-42d8-9ac3-26d0a73985f7",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "77338123-d821-4441-b818-3882619e6a85",
+    "nombre": "Robótica Educativa",
+    "campoFormativoId": "802ac18d-124a-4e6d-92ce-a7efdc907a7b",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "85b52142-fd8e-4670-8d84-9a8d3bb2058c",
+    "nombre": "Historia",
+    "campoFormativoId": "ad592fef-6e46-4451-bbc0-d0021eeff5b2",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "a8050e71-822a-4adf-a58d-67a48c71e0fd",
+    "nombre": "Formación Cívica y Ética",
+    "campoFormativoId": "ad592fef-6e46-4451-bbc0-d0021eeff5b2",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "bd430406-7cfe-45ea-8b55-74198041ccfc",
+    "nombre": "Ciencias Naturales",
+    "campoFormativoId": "1056082d-e25a-44e8-9334-d137563e6527",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "cdc22a68-35a6-41d5-ab35-b3b4786e1e81",
+    "nombre": "Matemáticas",
+    "campoFormativoId": "1056082d-e25a-44e8-9334-d137563e6527",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "dd6cb763-4e29-4879-b0d2-4eb91daf0b43",
+    "nombre": "Artes",
+    "campoFormativoId": "c87b6b30-13d5-412d-92dd-2bb69da54348",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "e0e4fbe2-38d4-491c-b996-df327a57ee6c",
+    "nombre": "Educación Física",
+    "campoFormativoId": "c87b6b30-13d5-412d-92dd-2bb69da54348",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "e14c99be-7325-4678-8777-71af48572eff",
+    "nombre": "Español",
+    "campoFormativoId": "9e3d29af-384b-48d5-98de-de4a3b818de2",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "f73ff7f7-40e8-416f-b55c-ce9d70d59112",
+    "nombre": "Inglés",
+    "campoFormativoId": "9e3d29af-384b-48d5-98de-de4a3b818de2",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "f881531d-9f44-4645-9ef5-ecc0ff140629",
+    "nombre": "Convivencia Escolar",
+    "campoFormativoId": "7240a1d4-a806-42d8-9ac3-26d0a73985f7",
+    "estatus": "ACTIVO"
+  }
+]
