@@ -410,3 +410,22 @@ materia
     "estatus": "ACTIVO"
   }
 ]
+
+
+[
+  {
+    "id": "030cb07e-27fa-44cb-ad36-07a0474b44e7",
+    "nombre": "Trimestre 3",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "8e99058b-b0c6-4b02-b6cf-c4dabc2df414",
+    "nombre": "Trimestre 1",
+    "estatus": "ACTIVO"
+  },
+  {
+    "id": "b79c817f-6594-4a39-a68b-5259073cee33",
+    "nombre": "Trimestre 2",
+    "estatus": "ACTIVO"
+  }
+]
